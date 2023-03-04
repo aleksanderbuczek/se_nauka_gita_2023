@@ -1,8 +1,8 @@
 <?php
 
-	function srednia(a, b)
+	function srednia_wazona(a, b)
 	{
-			return (a+b)/2;
+			return (40*a+60*b)/100;
 	}
 
 ?>
